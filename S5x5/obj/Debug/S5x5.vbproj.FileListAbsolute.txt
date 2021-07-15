@@ -1,0 +1,10 @@
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\bin\Debug\S5x5.exe.config
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\bin\Debug\S5x5.exe
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\bin\Debug\S5x5.pdb
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\bin\Debug\S5x5.xml
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\obj\Debug\S5x5.Resources.resources
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\obj\Debug\S5x5.vbproj.GenerateResource.Cache
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\obj\Debug\S5x5.exe
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\obj\Debug\S5x5.xml
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\obj\Debug\S5x5.pdb
+c:\users\siael\documents\visual studio 2012\Projects\S5x5\S5x5\obj\Debug\S5x5.main.resources
